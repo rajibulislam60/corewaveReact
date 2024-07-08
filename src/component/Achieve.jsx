@@ -29,12 +29,12 @@ const Achieve = () => {
                 <div className="col-lg-6">
                   <AchieveItem h2="Project Done" h3="1200+" />
                   <br />
-                  <AchieveItem h2="Project Done" h3="1200+" />
+                  <AchieveItem h2="Happy Clients" h3="500+" />
                 </div>
                 <div className="col-lg-6 mt-[95px]">
-                  <AchieveItem h2="Project Done" h3="1200+" />
+                  <AchieveItem h2="Running Work" h3="120+" />
                   <br />
-                  <AchieveItem h2="Project Done" h3="1200+" />
+                  <AchieveItem h2="Achevement" h3="150+" />
                 </div>
               </div>
             </div>
